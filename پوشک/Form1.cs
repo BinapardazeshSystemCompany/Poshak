@@ -34,7 +34,7 @@ namespace پوشک
         {
             btntrain.Enabled = true;
             button1.Enabled = false;
-
+            ///////////////hello word on the licens !!
             using (SaveFileDialog saveDialog = new SaveFileDialog())
             {
                 saveDialog.Filter = "Halcon Dictionary Files (*.hdict)|*.hdict|All Files (*.*)|*.*";
